@@ -1,0 +1,162 @@
+#title {
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.nav-item {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: sans-serif;
+  margin: 0 16px;
+}
+
+.navbar-brand {
+  font-size: 3rem;
+  font-family: 'Black Ops One', cursive;
+}
+
+h1 {
+  font-family: 'Luckiest Guy', cursive;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.container-fluid {
+  padding: 2% 12%;
+}
+
+.home-image {
+  width: 70%;
+}
+
+.fab {
+  padding: 3px;
+}
+
+.button-margin {
+  margin: 30px 10px;
+}
+
+#features{
+padding: 10%;
+text-align: center;
+  font-family: 'Luckiest Guy', cursive;
+}
+.fas{
+  margin-bottom: 2rem;
+  color:#ff4c68;
+}
+.flat-img{
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+}
+#flats-images{
+  padding: 1rem 3rem 2rem;
+  text-align: center;
+  background-color: #ff4c68;
+  color:#fff;
+  font-family: 'Abril Fatface', cursive;
+
+
+}
+.flat{
+  width: 50%;
+  margin: 0 auto;
+}
+h5{
+  margin-top: 1rem;
+  font-size: 30px;
+}
+.carousel-item{
+  padding-bottom: 2.5rem;
+}
+#pricing{
+font-family: 'Abril Fatface', cursive;
+padding: 3rem;
+}
+.row{
+text-align: center;
+}
+.card{
+  margin: 0 auto;
+}
+hr{
+margin-bottom: 20px;
+border-style: none;
+border-top-style: dotted;
+border-color: #66CDAA;
+border-width: 5px;
+width: 5%;
+}
+.contact-me{
+text-align: center;
+padding: 4%;
+}
+.heading{
+  color: #66CDAA;
+font-family: 'Luckiest Guy', cursive;
+  font-weight: bold;
+  width: 20%;
+  margin: auto;
+margin-bottom: 30px;
+}
+.paragraph{
+  width:25%;
+margin: auto;
+margin-bottom: 30px;
+  font-family: 'Luckiest Guy', cursive;
+  font-weight: bold;
+  font-size: 20px;
+}
+.classname {
+	background-color:transparent;
+	-webkit-border-top-left-radius:28px;
+	-moz-border-radius-topleft:28px;
+	border-top-left-radius:28px;
+	-webkit-border-top-right-radius:28px;
+	-moz-border-radius-topright:28px;
+	border-top-right-radius:28px;
+	-webkit-border-bottom-right-radius:28px;
+	-moz-border-radius-bottomright:28px;
+	border-bottom-right-radius:28px;
+	-webkit-border-bottom-left-radius:28px;
+	-moz-border-radius-bottomleft:28px;
+	border-bottom-left-radius:28px;
+text-indent:0;
+	border:1px solid #18ab29;
+	display:inline-block;
+	color:#66cdab;
+	font-family:arial;
+	font-size:19px;
+	font-weight:bold;
+	font-style:normal;
+height:50px;
+	line-height:50px;
+width:140px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #2f6627;
+}.classname:active {
+	position:relative;
+	top:1px;
+}
+.footer{
+  padding: 30px;
+background-color: #66CDAA;
+text-align: center;
+}
+.links{
+  font-family:'Bree Serif', serif;
+  margin-right: 20px;
+  font-size: 16px;
+  text-decoration: none;
+  color: white;
+}
+.links:hover{
+  color: blue;
+}
